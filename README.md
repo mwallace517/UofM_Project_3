@@ -1,4 +1,3 @@
-Building a Secure Monitoring Environment
 In this project, my team was tasked with creating a secure monitoring environment for a fictional organization using Splunk. During the process of creating the secure environment we tested it against simulated cyberattacks.
 We then summarized our findings and monitoring effectiveness of this secure monitoring environment into a presentation for the senior management of our fictional organization.
 The setup for our monitoring environment was an Apache web server (public-facing website) and a Windows operating system (backend operations).
